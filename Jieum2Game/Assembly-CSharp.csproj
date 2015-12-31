@@ -177,10 +177,11 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITiledSprite.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
-     <Compile Include="Assets\Scripts\Common.cs" />
-     <Compile Include="Assets\Scripts\Defines.cs" />
-     <Compile Include="Assets\Scripts\GameController.cs" />
-     <Compile Include="Assets\Scripts\LeanTouchTester.cs" />
+     <Compile Include="Assets\Scripts\Game\Common.cs" />
+     <Compile Include="Assets\Scripts\Game\Defines.cs" />
+     <Compile Include="Assets\Scripts\Game\GameController.cs" />
+     <Compile Include="Assets\Scripts\Game\LeanTouchTester.cs" />
+     <Compile Include="Assets\Scripts\Game\RippleEffect.cs" />
      <Compile Include="Assets\Scripts\Lives\LiveBase.cs" />
      <Compile Include="Assets\Scripts\Lives\LiveDefines.cs" />
      <Compile Include="Assets\Scripts\Lives\LiveManager.cs" />
@@ -196,8 +197,7 @@
      <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
      <Compile Include="Assets\Scripts\Managers\MusicManager.cs" />
      <Compile Include="Assets\Scripts\Managers\UIManager.cs" />
-     <Compile Include="Assets\Scripts\Panels\PanelGame.cs" />
-     <Compile Include="Assets\Scripts\RippleEffect.cs" />
+     <Compile Include="Assets\Scripts\UI\Panels\PanelGame.cs" />
      <Compile Include="Assets\Scripts\UI\UIMover.cs" />
      <Compile Include="Assets\Scripts\UI\UIScaler.cs" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />
@@ -210,6 +210,7 @@
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (AlphaClip) .shader" />
      <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (AlphaClip).shader" />
+     <None Include="Assets\Resources\Fonts\nanum_31-export.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
      <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
      <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
@@ -246,10 +247,10 @@
  <HintPath>/Applications/Unity_5_2_3/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="LitJson">
- <HintPath>/Users/danuon/test5.2/Jieum2Game/Assets/Plugins/Json/LitJson.dll</HintPath>
+ <HintPath>/Users/danuon/Project/Repository_Jieum2/Jieum2Game/Assets/Plugins/Json/LitJson.dll</HintPath>
  </Reference>
  <Reference Include="System.Net.Json">
- <HintPath>/Users/danuon/test5.2/Jieum2Game/Assets/Plugins/Json/System.Net.Json.dll</HintPath>
+ <HintPath>/Users/danuon/Project/Repository_Jieum2/Jieum2Game/Assets/Plugins/Json/System.Net.Json.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity_5_2_3/Unity.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

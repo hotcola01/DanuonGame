@@ -8,9 +8,8 @@ public class GameController : MonoBehaviour
 	public LeanTouchTester leanTouchTester;
 	public RippleEffect rippleEffect;
 
+	public UIScaler labelScalerCombo;
 	public UIScaler labelScalerScore;
-	public UIMover labelMoverScore;
-	public UIMover labelMoverCombo;
 	public UIScaler labelScalerMaxCombo;
 	public UIScaler labelScalerMultiply;
 
@@ -61,6 +60,9 @@ public class GameController : MonoBehaviour
 		{
 			touchableNotes[i] = new List<PlayNoteInfo>();
 		}
+
+
+		Reset ();
 	}
 	
 	void Update () 
@@ -265,20 +267,19 @@ public class GameController : MonoBehaviour
 	void Score()
 	{
 		uiManager.panelGame.Score (score);
-		labelScalerScore.Play();
-		labelMoverScore.Play();
+		if(labelScalerScore)		labelScalerScore.Play();
 	}
 
 	void MaxCombo()
 	{
 		uiManager.panelGame.MaxCombo (maxCombo);
-		labelScalerMaxCombo.Play ();
+		if(labelScalerMaxCombo)		labelScalerMaxCombo.Play ();
 	}
 
 	void Combo()
 	{
 		uiManager.panelGame.Combo (combo);
-		labelMoverCombo.Play ();
+		if(labelScalerCombo)		labelScalerCombo.Play();
 	}
 
 	void Multiply()
@@ -286,7 +287,7 @@ public class GameController : MonoBehaviour
 		// change effect
 
 		uiManager.panelGame.Multiplay (multiply);
-		labelScalerMultiply.Play ();
+		if(labelScalerMultiply)		labelScalerMultiply.Play ();
 	}
 	#endregion
 }

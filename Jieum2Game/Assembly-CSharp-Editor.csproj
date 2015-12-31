@@ -91,6 +91,7 @@
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (AlphaClip) .shader" />
      <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (AlphaClip).shader" />
+     <None Include="Assets\Resources\Fonts\nanum_31-export.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
      <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
      <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
@@ -136,10 +137,10 @@
  <HintPath>/Applications/Unity_5_2_3/Unity.app/Contents/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
  </Reference>
  <Reference Include="LitJson">
- <HintPath>/Users/danuon/test5.2/Jieum2Game/Assets/Plugins/Json/LitJson.dll</HintPath>
+ <HintPath>/Users/danuon/Project/Repository_Jieum2/Jieum2Game/Assets/Plugins/Json/LitJson.dll</HintPath>
  </Reference>
  <Reference Include="System.Net.Json">
- <HintPath>/Users/danuon/test5.2/Jieum2Game/Assets/Plugins/Json/System.Net.Json.dll</HintPath>
+ <HintPath>/Users/danuon/Project/Repository_Jieum2/Jieum2Game/Assets/Plugins/Json/System.Net.Json.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity_5_2_3/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>

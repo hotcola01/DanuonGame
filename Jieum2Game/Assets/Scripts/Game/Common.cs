@@ -240,6 +240,13 @@ public static class Common
 		
 		return false;
 	}
+
+	public static float GetFontWidthNGUI(UILabel label)
+	{
+		Vector2 v = label.relativeSize; 
+		int fontsize = label.font.size; 
+		return v.x * (float)fontsize; 
+	}
 }
 
 
