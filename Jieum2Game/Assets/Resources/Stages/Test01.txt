@@ -1,0 +1,621 @@
+
+{
+    "soundname" : "jieum test sound",
+    "bpm"       : 160.0,
+    "clonenotemovecount" : 0,
+    "notecount"          : 100,
+    "notes"              : [
+        {
+            "time" : 0.0187500007450581,
+            "effectindex" : 4,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 1.36874997615814,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 1.36874997615814,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 1.66875004768372,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 1.66875004768372,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 2.53125,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 2.53125,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 3.28125,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 3.28125,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 4.03125,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 4.03125,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 4.33125019073486,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 4.33125019073486,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 4.74375009536743,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 4.74375009536743,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 5.08125019073486,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 5.08125019073486,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 6.24375009536743,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 6.24375009536743,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 7.33125019073486,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 7.33125019073486,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 8.49375057220459,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 8.49375057220459,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 9.20625019073486,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 9.20625019073486,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 9.95625019073486,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 9.95625019073486,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 11.15625,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 11.15625,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 11.8687505722046,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 11.8687505722046,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 12.3187503814697,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 12.3187503814697,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 13.7437505722046,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 13.7437505722046,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 14.71875,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 14.71875,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 15.9937505722046,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 15.9937505722046,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 16.7437496185303,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 16.7437496185303,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 17.8312511444092,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 17.8312511444092,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 18.09375,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 18.09375,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 18.9562511444092,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 18.9562511444092,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 19.2562503814697,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 19.2562503814697,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 21.2062511444092,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 21.2062511444092,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 21.4312496185303,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 21.4312496185303,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 21.8812503814697,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 21.8812503814697,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 24.5437507629395,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 24.5437507629395,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 25.3687496185303,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 25.3687496185303,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 26.8312511444092,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 26.8312511444092,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 28.3687496185303,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 28.3687496185303,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 29.0437507629395,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 29.0437507629395,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 30.3562507629395,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 30.3562507629395,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 30.7687511444092,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 30.7687511444092,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 32.15625,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 32.15625,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 32.71875,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 32.71875,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 33.9562492370605,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 33.9562492370605,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 34.4437522888184,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 34.4437522888184,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 35.7562522888184,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 35.7562522888184,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 36.9187507629395,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 36.9187507629395,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 38.4937515258789,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 38.4937515258789,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 41.53125,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 41.53125,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 42.9562492370605,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 42.9562492370605,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 43.78125,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 43.78125,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 46.2937507629395,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 46.2937507629395,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 47.0437507629395,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 47.0437507629395,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 48.84375,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 48.84375,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 49.3312492370605,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 49.3312492370605,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 51.5437507629395,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 51.5437507629395,
+            "effectindex" : 0,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 54.5812492370605,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : true
+        },
+        {
+            "time" : 54.5812492370605,
+            "effectindex" : 1,
+            "groupindex"  : 0,
+            "cloned"      : false
+        },
+        {
+            "time" : 61.59375,
+            "effectindex" : 4,
+            "groupindex"  : 0,
+            "cloned"      : false
+        }
+    ]
+}
