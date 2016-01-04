@@ -45,7 +45,10 @@ public class PanelGame : MonoBehaviour
 
 		float maxComboValueWidth = Common.GetFontWidthNGUI (labelMaxComboCount);
 		float maxComboLabelWidth = Common.GetFontWidthNGUI (labelMaxCombo);
-		Vector3 labelPos = labelMaxComboCount.transform.localPosition - new Vector3(maxComboValueWidth+10f, 0f, 0f);
+		Vector3 labelPos = 
+			new Vector3(labelMaxComboCount.transform.localPosition.x - (maxComboValueWidth+130f),
+			            labelMaxCombo.transform.localPosition.y, 
+			            0f);
 		labelMaxCombo.transform.localPosition = labelPos;
 	}
 
@@ -55,7 +58,10 @@ public class PanelGame : MonoBehaviour
 
 		float scoreValueWidth = Common.GetFontWidthNGUI (labelScoreCount);
 		float scoreLabelWidth = Common.GetFontWidthNGUI (labelScore);
-		Vector3 labelPos = labelScoreCount.transform.localPosition - new Vector3(scoreValueWidth+10f, 0f, 0f);
+		Vector3 labelPos = 
+			new Vector3(labelScoreCount.transform.localPosition.x - (scoreValueWidth+130f),
+			            labelScore.transform.localPosition.y, 
+			            0f);
 		labelScore.transform.localPosition = labelPos;
 	}
 
